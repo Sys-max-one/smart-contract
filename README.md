@@ -17,7 +17,7 @@ This smart contract implements a basic Initial Coin Offering (ICO) for **Kcoin**
 
 ### Prerequisites
 
-* Code is build [Remix IDE](https://remix.ethereum.org/) and tested on Environment Remix VM (Prague)
+* Code is build using [Remix IDE](https://remix.ethereum.org/) and tested on Environment **Remix VM (Prague)**
 
 ### Deployment
 
