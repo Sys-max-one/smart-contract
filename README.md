@@ -19,7 +19,22 @@ This smart contract implements a basic Initial Coin Offering (ICO) for **Kcoin**
 
 * Code is build using [Remix IDE](https://remix.ethereum.org/) and tested on Environment **Remix VM (Prague)**
 
-### Deployment
+### Compile and Run
+
+1. Solidity Compiler
+<p align="center"><img width="337" alt="1  Solidity Compiler" src="https://github.com/user-attachments/assets/a94df8ef-56e0-432f-9493-ce834dd3f01a" /></p>
+
+2. Deploy and Run Transaction
+<p align="center"><img width="342" alt="2  Deploy and Run Transaction" src="https://github.com/user-attachments/assets/f30dec75-b409-4711-a222-d1e3a72abf90" /></p>
+
+3. Deploy Contracts
+<p align="center"><img width="334" alt="3  Deploy Contracts" src="https://github.com/user-attachments/assets/21f0c0fb-b1eb-4b94-bb97-b5c2d4dadf15" /></p>
+
+4. Expand BUY_KCOIN
+<p align="center"><img width="341" alt="4  Expand BUY_KCOIN" src="https://github.com/user-attachments/assets/481bb1c9-905c-4a46-af5a-ff1e25545ce8" /></p>
+
+5. Input values for Public Address and USD
+<p align="center"><img width="338" alt="5  Input values for Public Address and USD" src="https://github.com/user-attachments/assets/c40053e0-942b-4afb-a7e2-67aa51e41fb6" /></p>
 
 
 ### Key Contract Functions
